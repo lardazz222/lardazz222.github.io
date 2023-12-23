@@ -1,5 +1,5 @@
 # ☁️⚠️ CLOUD JUICE OFFICIAL WEBSITE
-(https://lardazz222.github.io/)[Click here to visit website!!]
+[Click here to visit website!!](https://lardazz222.github.io/)
 ### How to run?
 
 1. Clone the repository
