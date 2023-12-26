@@ -13,5 +13,5 @@ export default defineConfig({
     }
   },
   // base: "/lardazz222.github.io/src/dist/"
-  base: process.env.NODE_ENV === "production" ? "/lardazz222.github.io/src/dist/" : "/",
+  base: "/lardazz222.github.io/src/dist/" 
 })
