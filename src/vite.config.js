@@ -12,5 +12,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: "/lardazz222.github.io/src/dist/"
+  // base: "/lardazz222.github.io/src/dist/"
+  base: process.env.NODE_ENV === "production" ? "/lardazz222.github.io/src/dist/" : "/",
 })
